@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/1TGY5558cqcAAAAC/cars-drifting-transparent-gif.gif" width="350"/>
+<img src="https://media1.tenor.com/m/pV_Q0OiP8EEAAAAC/240z-nissan.gif" width="300"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&height=50&lines=%E4%BB%8A%E6%97%A5%E3%81%AF%E3%80%81+KhdDev+%F0%9F%8F%8E%EF%B8%8F;Web+Developer+%7C+JDM+Enthusiast;Night+coder+%F0%9F%8C%99+Tokyo+vibes" alt="Typing SVG" />
 
