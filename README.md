@@ -1,81 +1,114 @@
 <div align="center">
 
-<!-- Banniere One Piece -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=200&section=header&text=%E2%98%A0%EF%B8%8F%20KhdDev%20%E2%98%A0%EF%B8%8F&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Code%20Will%20Be%20King%20of%20the%20Pirates!&descSize=16&descAlignY=55" width="100%"/>
-
-<!-- GIF Luffy Gear 5 -->
-<img src="https://media1.tenor.com/m/Ru1WwH1pxgoAAAAd/luffy-luffy-one-piece.gif" width="600"/>
+<!-- GIF Luffy Gear 5 en intro -->
+<img src="https://media1.tenor.com/m/Ru1WwH1pxgoAAAAd/luffy-luffy-one-piece.gif" width="500"/>
 
 <br/><br/>
 
-<!-- Header anime -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E03131&center=true&vCenter=true&random=false&width=700&height=70&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Kaizoku+ni+ore+wa+naru!;%F0%9F%92%BB+Web+Developer;%F0%9F%94%A5+Coding+with+the+Will+of+D.;%E2%9A%93+Sailing+the+Grand+Line+of+Code" alt="Typing SVG" />
+<!-- ============================================== -->
+<!--            WANTED POSTER                       -->
+<!-- ============================================== -->
+
+<table>
+<tr><td>
+
+<div align="center">
 
 <br/>
 
-<!-- Badges Wanted -->
-<img src="https://img.shields.io/badge/WANTED-DEAD%20OR%20ALIVE-red?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/BOUNTY-%E2%82%AC%20100%2C000%2C000-gold?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/CREW-STRAW%20HAT%20DEVS-red?style=for-the-badge&labelColor=000000" />
-
-</div>
-
----
-
-## `> wanted_poster.log`
-
-<div align="center">
-<table>
-<tr>
-<td width="400">
-
-```js
-const KhdDev = {
-    alias: "The Code Pirate",
-    crew: "Straw Hat Developers",
-    role: "Web Developer",
-    devilFruit: "Koodo Koodo no Mi",
-    haki: ["HTML", "CSS", "JS", "PHP"],
-    dream: "Devenir le Roi du Code",
-    bounty: "100,000,000 commits"
-};
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                        W A N T E D                           ║
+║                                                              ║
+║                     DEAD  OR  ALIVE                          ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║                     ☠️  K H D D E V  ☠️                      ║
+║                                                              ║
+║              ⚓ " The Code Pirate " ⚓                       ║
+║                                                              ║
+║                  Straw Hat Developers                        ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   👤  IDENTITE                                               ║
+║   ─────────────────────────────────────                      ║
+║   Nom .............. KhdDev                                  ║
+║   Alias ............ The Code Pirate                         ║
+║   Equipage ......... Straw Hat Developers                    ║
+║   Role ............. Web Developer                           ║
+║   Fruit du Demon ... Koodo Koodo no Mi                       ║
+║                      (Code-Code Fruit)                       ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ⚔️  HAKI  (Competences)                                   ║
+║   ─────────────────────────────────────                      ║
+║                                                              ║
+║   ◈ Haki de l'Observation ... HTML                           ║
+║     ████████████████████░░  90%  « Voit tout le DOM »        ║
+║                                                              ║
+║   ◈ Haki de l'Armement ..... CSS                             ║
+║     ██████████████████░░░░  85%  « Style incassable »        ║
+║                                                              ║
+║   ◈ Haki du Roi ............ JavaScript                      ║
+║     ████████████████░░░░░░  80%  « Domine le runtime »       ║
+║                                                              ║
+║   ◈ Fruit du Demon ......... PHP                             ║
+║     ██████████████░░░░░░░░  70%  « Backend devastateur »     ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   🛠️  EQUIPEMENT                                             ║
+║   ─────────────────────────────────────                      ║
+║   Sabre principal ...... VS Code                             ║
+║   Boussole (Log Pose) .. Git                                 ║
+║   Pavillon ............. GitHub                              ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   🎯  DERNIERS EXPLOITS                                      ║
+║   ─────────────────────────────────────                      ║
+║   ✦ A conquis l'ile du Web Development                       ║
+║   ✦ Maitrise les 3 types de Haki front-end                   ║
+║   ✦ Recherche activement le One Piece (Full-Stack)           ║
+║   ✦ Navigation sur la Grand Line du code                     ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   🌊  OBJECTIF                                               ║
+║   ─────────────────────────────────────                      ║
+║                                                              ║
+║        « Devenir le Roi des Developpeurs »                   ║
+║                                                              ║
+║   ─────────────────────────────────────                      ║
+║                                                              ║
+║                       💰 PRIME 💰                             ║
+║                                                              ║
+║             B  100.000.000  COMMITS                          ║
+║                                                              ║
+║           ⚠️  MARINE : WORLD GOVERNMENT ⚠️                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td width="300">
-
-<img src="https://media1.tenor.com/m/xs4P0Qc8DpUAAAAC/one-piece-gear-5.gif" width="280"/>
-
-</td>
-</tr>
-</table>
 </div>
 
----
-
-## ☠️ Arsenal du Pirate
-
-<div align="center">
-
-<img src="https://media1.tenor.com/m/oAnHuHkkVCwAAAAC/zoro-one-piece-one-piece.gif" width="200"/>
-
-<br/><br/>
-
-> *"Mes nakamas de code..."*
-
-### ⚔️ Armes Principales
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4" alt="Tech Stack" />
-
-| Arme | Niveau | Style |
-|:---:|:---:|:---:|
-| HTML | Roi des Pirates | Haki de l'Observation |
-| CSS | Commandant | Haki de l'Armement |
-| JavaScript | Supernova | Fruit du Demon |
-| PHP | Corsaire | Grand Corsaire |
+</td></tr>
+</table>
 
 <br/>
 
-### 🛠️ Equipement
+<!-- GIF Gear 5 sourire -->
+<img src="https://media1.tenor.com/m/xs4P0Qc8DpUAAAAC/one-piece-gear-5.gif" width="250"/>
+
+<br/><br/>
+
+<!-- Tech Stack Icons -->
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4" alt="Tech Stack" />
+<br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=3" alt="Tools" />
 
 </div>
@@ -104,6 +137,10 @@ const KhdDev = {
 ## 🏆 Primes & Trophees
 
 <div align="center">
+
+<img src="https://media1.tenor.com/m/oAnHuHkkVCwAAAAC/zoro-one-piece-one-piece.gif" width="200"/>
+
+<br/><br/>
 
 > *"Chaque trophee est une ile conquise sur la Grand Line!"*
 
