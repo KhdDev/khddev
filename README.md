@@ -49,9 +49,9 @@ const KhdDev = {
 
 <div align="center">
 
-![KhdDev's github stats](https://github-readme-stats.vercel.app/api?username=KhdDev&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=a0a0a0)
+![KhdDev's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KhdDev&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=a0a0a0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhdDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=a0a0a0)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhdDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=a0a0a0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KhdDev&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=8B5CF6&sideLabels=a0a0a0&dates=555555)
 
